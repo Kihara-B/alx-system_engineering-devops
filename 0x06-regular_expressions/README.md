@@ -1,1 +1,1 @@
-##0x06 Regular Expressions
+# This directory contains files for the Project: 0x06. Regular Expressions
